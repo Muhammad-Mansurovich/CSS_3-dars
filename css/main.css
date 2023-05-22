@@ -1,0 +1,26 @@
+/* CTRL + Probel => HTMLdagi papkaning ichidagilarni ko'rsatadi */
+/* float: left; => Elementlarni yonma-yon qo'yib beradi. Right qilish m-n */
+/* CTRL + D => Yozuvning ustiga bosilsa, ko'paytirib beradi */
+/* font-size: 20px; => matnni kattalarshtirish uchun ishlatilinadi */
+
+body{
+    background-color: brown;
+}
+.text-block{
+    background-color: white;
+    width: 1200px; /* = 100% */
+    margin: 150px auto;
+
+}
+.text-block-item{
+    width: 30%;  /* 30% = 1/3*/
+
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 20px;
+}
+.clear{
+    clear: both;
+}

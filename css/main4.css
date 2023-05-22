@@ -1,0 +1,38 @@
+body{
+    background-color: whitesmoke;
+}
+.text-block{
+   width: 600px;
+    margin: 120px auto;
+}
+.text-block-item{
+    background-color: white;
+    border-radius: 40px;
+    text-align: center;
+    width: 42%;
+    height: 650px;
+    padding: 10px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 20px;
+}
+.clear{
+    clear: both;
+}
+.text{
+    color: lightgreen;
+    text-transform: capitalize;
+    font-size: 30px;
+    text-align: center;
+}
+.text2{
+    margin-left: 70px;
+}
+.text3{
+    margin-top: -120px;
+    text-align: center;
+
+}
+.text4{
+    margin-left: 260px;
+}

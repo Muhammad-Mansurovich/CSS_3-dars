@@ -1,0 +1,123 @@
+body{
+}
+.text-block1{
+    width: 1200px;
+    margin: 250px 700px 25px 700px;
+
+}
+.text-block2{
+    width: 1200px;
+    margin: 25px 700px 0px 700px;
+}
+.text-block-item11{
+    background-color: white;
+    width: 22%;
+    height: 250px;
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: grey;
+    margin: 15px;
+    float: left;
+    padding-top: 60px;
+    box-sizing: border-box;
+}
+.text-block-item12{
+    background-color: white;
+    width: 22%;
+    height: 250px;
+    text-align: center;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: grey;
+    margin: 15px;
+    float: left;
+    padding-top: 60px;
+    box-sizing: border-box;
+}
+.text-block-item13{
+    background-color: white;
+    width: 22%;
+    height: 250px;
+    text-align: center;
+    border-width: 3px;
+    border-style: dotted;
+    border-color: grey;
+    margin: 15px;
+    float: left;
+    padding-top: 60px;
+    box-sizing: border-box;
+}
+.text-block-item14{
+    background-color: white;
+    width: 22%;
+    height: 250px;
+    text-align: center;
+    border-width: 10px;
+    border-style: double;
+    border-color: grey;
+    margin: 15px;
+    float: left;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+.text-block-item21{
+    background-color: white;
+    width: 22%;
+    height: 250px;
+    text-align: center;
+    border-width: 20px;
+    border-style: inset;
+    border-color: grey;
+    margin: 15px;
+    float: left;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+.text-block-item22{
+    background-color: white;
+    width: 22%;
+    height: 250px;
+    text-align: center;
+    border-width: 20px;
+    border-style: outset;
+    border-color: grey;
+    margin: 15px;
+    float: left;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+.text-block-item23{
+    background-color: white;
+    width: 22%;
+    height: 250px;
+    text-align: center;
+    border-width: 20px;
+    border-style: groove;
+    border-color: grey;
+    margin: 15px;
+    float: left;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+.text-block-item24{
+    background-color: white;
+    width: 22%;
+    height: 250px;
+    text-align: center;
+    border-width: 20px;
+    border-style: ridge;
+    border-color: grey;
+    margin: 15px;
+    float: left;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+.text{
+    font-size: 40px;
+    text-align: center;
+    color: grey;
+}

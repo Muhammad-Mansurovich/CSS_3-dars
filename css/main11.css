@@ -1,0 +1,39 @@
+body{
+    background-color: skyblue;
+}
+.text-block{
+    background-color: limegreen;
+    float: left;
+    margin: 0px auto;
+    text-align: center;
+    color: white;
+    width: 1000px;
+    float: left;
+    padding: 0px 15px;
+    box-sizing: border-box;
+
+}
+.text-block2{
+    float: left;
+    margin: 10px 5px;
+}
+.text-block3 {
+    float: left;
+    margin: 10px 5px;
+}
+.text-block4 {
+    float: left;
+    margin: 10px 5px;
+}
+
+.text1{
+
+    text-align: left;
+}
+.text2{
+    text-align: right;
+}
+
+.clear{
+    clear: both;
+}

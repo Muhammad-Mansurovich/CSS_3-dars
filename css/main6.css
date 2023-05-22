@@ -1,0 +1,86 @@
+body{
+    background-color: white;
+}
+.text-block1{
+    width: 1000px;
+    margin: 250px 600px 0px 1000px;
+}
+.text-block2{
+    width: 1000px;
+    margin: 0px 600px 0px 1000px;
+}
+.text-block3{
+    width: 1000px;
+    margin: 0px 600px 0px 1000px;
+}
+.text-block4{
+    width: 1000px;
+    margin: 0px 600px 0px 1000px;
+}
+.text-block5{
+    width: 1000px;
+    margin: 0px 600px 0px 1000px;
+}
+.text-block-item{
+    background-color: yellowgreen;
+    text-align: center;
+    width: 14%;
+    height: 125px;
+    border-style: solid;
+    border-color: white;
+    box-sizing: border-box;
+    margin: 3px ;
+    float: left;
+}
+.text-block-item2{
+    background-color: yellowgreen;
+    text-align: center;
+    width: 14%;
+    height: 125px;
+    border-style: solid;
+    border-color: white;
+    box-sizing: border-box;
+    margin: 3px;
+    float: left;
+}
+.text-block-item3{
+    background-color: yellowgreen;
+    text-align: center;
+    width: 14%;
+    height: 125px;
+    border-style: solid;
+    border-color: white;
+    box-sizing: border-box;
+    margin: 3px;
+    float: left;
+}
+.text-block-item4{
+    background-color: yellowgreen;
+    text-align: center;
+    width: 14%;
+    height: 125px;
+    border-style: solid;
+    border-color: white;
+    box-sizing: border-box;
+    margin: 3px;
+    float: left;
+}
+.text-block-item5{
+    background-color: yellowgreen;
+    text-align: center;
+    width: 14%;
+    height: 125px;
+    border-style: solid;
+    border-color: white;
+    box-sizing: border-box;
+    margin: 3px;
+    float: left;
+}
+.text{
+    font-size: 50px;
+    text-align: center;
+
+}
+.clear{
+    clear: both;
+}

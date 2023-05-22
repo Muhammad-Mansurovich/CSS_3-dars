@@ -1,0 +1,104 @@
+body{
+    background-color: lightpink;
+}
+.text-block1{
+    width: 1400px;
+    margin: 250px 800px 15px 800px;
+}
+.text-block2{
+    width: 1400px;
+    margin: 15px 800px 0px 800px;
+}
+.text-block-item11{
+    background-color: white;
+    width: 30%;
+    height: 320px;
+    border-top-color: palevioletred;
+    border-top-width: 8px;
+    border-top-style: solid;
+    border-radius: 23px 60px 60px 60px;
+    text-align: center;
+    margin: 16px;
+    padding: 25px 5px 0px 5px;
+    box-sizing: border-box;
+    float: left;
+}
+.text-block-item12{
+    background-color: white;
+    width: 30%;
+    height: 320px;
+    border-top-color: midnightblue;
+    border-top-width: 8px;
+    border-top-style: solid;
+    border-radius: 23px 60px 60px 60px;
+    text-align: center;
+    margin: 16px;
+    padding: 6px;
+    box-sizing: border-box;
+    float: left;
+}
+.text-block-item13{
+    background-color: white;
+    width: 30%;
+    height: 320px;
+    border-top-color: darkorange;
+    border-top-width: 8px;
+    border-top-style: solid;
+    border-radius: 23px 60px 60px 60px;
+    text-align: center;
+    margin: 16px;
+    padding-top: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+.text-block-item21{
+    background-color: white;
+    width: 30%;
+    height: 320px;
+    border-top-color: lightblue;
+    border-top-width: 8px;
+    border-top-style: solid;
+    border-radius: 23px 60px 60px 60px;
+    text-align: center;
+    margin: 16px;
+    padding-top: 25px;
+    box-sizing: border-box;
+    float: left;
+}.text-block-item22{
+     background-color: white;
+     width: 30%;
+     height: 320px;
+     border-top-color: gold;
+     border-top-width: 8px;
+     border-top-style: solid;
+     border-radius: 23px 60px 60px 60px;
+     text-align: center;
+     margin: 16px;
+     padding-top: 25px;
+     box-sizing: border-box;
+     float: left;
+ }.text-block-item23{
+      background-color: white;
+      width: 30%;
+      height: 320px;
+      border-top-color: steelblue;
+      border-top-width: 8px;
+      border-top-style: solid;
+      border-radius: 23px 60px 60px 60px;
+      text-align: center;
+      margin: 16px;
+       padding-top: 25px;
+      box-sizing: border-box;
+      float: left;
+  }
+.clear{
+    clear: both;
+}
+.text {
+    text-align: center;
+    color: dimgrey;
+}
+.text1{
+    font-size: 27px;
+    color: dimgray;
+}
